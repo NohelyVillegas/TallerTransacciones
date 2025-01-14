@@ -1,6 +1,0 @@
-com\espe\micro_transaccion\services\TransaccionService.class
-com\espe\micro_transaccion\MicroTransaccionApplication.class
-com\espe\micro_transaccion\services\TransaccionServiceImpl.class
-com\espe\micro_transaccion\models\entities\Transaccion.class
-com\espe\micro_transaccion\repositories\TransaccionRepository.class
-com\espe\micro_transaccion\controllers\TransaccionController.class
